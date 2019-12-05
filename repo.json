@@ -1,0 +1,14 @@
+[{
+  "Name": "goto",
+  "Description": "A simple goto plugin",
+  "Tags": ["goto", "jump"],
+  "Versions": [
+    {
+      "Version": "1.0.0",
+      "Url": "https://github.com/davidalbertainley/micro-goto-plugin/archive/1.0.0.zip",
+      "Require": {
+        "micro": ">=1.3.3"
+      }
+    }
+  ]
+}]
